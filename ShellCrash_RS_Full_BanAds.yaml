@@ -218,11 +218,25 @@ rule-providers:
     behavior: domain
     proxy: DIRECT
     url: "https://testingcf.jsdelivr.net/gh/DustinWin/ruleset_geodata@refs/heads/mihomo-ruleset/ads.mrs"
+  night-star:
+    type: http
+    format: yaml
+    interval: 86400
+    behavior: classical
+    proxy: DIRECT
+    url: "https://testingcf.jsdelivr.net/gh/Night-stars-1/Clash_Rule/night_star.yaml"
+  cloudflare:
+    behavior: ipcidr
+    interval: 259200
+    format: yaml
+    type: http
+    url: "https://raw.githubusercontent.com/myflavor/rule-provider/refs/heads/main/cloudflare.yml"
 
 #规则顺序
 rules:
   - DOMAIN-SUFFIX,captive.apple.com,🍎 苹果服务
   - DOMAIN-SUFFIX,kamo.teracloud.jp,🀄️ 国内流量
+  - DOMAIN-SUFFIX,hanime1.me,🇭🇰 香港节点
 
   - RULE-SET,privateip,🔒 私有网络,no-resolve
   - RULE-SET,private,🔒 私有网络
@@ -250,5 +264,8 @@ rules:
   - RULE-SET,gamesip,🎮 外服游戏
   - RULE-SET,mediaip,🌍 国际媒体
   - RULE-SET,cnip,🀄️ 国内流量
+
+  - RULE-SET,cloudflare,🚀 节点选择,no-resolve
+  - RULE-SET,night_star,🚀 节点选择
 
   - MATCH,🐟 漏网之鱼
