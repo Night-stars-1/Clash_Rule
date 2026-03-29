@@ -266,6 +266,6 @@ rules:
   - RULE-SET,cnip,🀄️ 国内流量
 
   - RULE-SET,cloudflare,🚀 节点选择,no-resolve
-  - RULE-SET,night_star,🚀 节点选择
+  - RULE-SET,night-star,🚀 节点选择
 
   - MATCH,🐟 漏网之鱼
