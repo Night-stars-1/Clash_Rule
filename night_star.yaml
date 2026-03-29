@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,litellm.ai
   - DOMAIN-SUFFIX,mojang.com
   - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,srap.link
   - DOMAIN-KEYWORD,pikpak
   - DOMAIN-KEYWORD,iwara
   - DOMAIN-KEYWORD,discord
