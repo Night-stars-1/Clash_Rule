@@ -15,3 +15,6 @@ payload:
   - DOMAIN-KEYWORD,okx
   - DOMAIN-KEYWORD,pornhub
   - DOMAIN-KEYWORD,rakuten
+  - DOMAIN-SUFFIX,ipfoxy.io
+  - DOMAIN-SUFFIX,idcflare.com
+  - DOMAIN-SUFFIX,webshare.io
