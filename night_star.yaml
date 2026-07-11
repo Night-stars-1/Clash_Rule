@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,idcflare.com
   - DOMAIN-SUFFIX,webshare.io
   - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-SUFFIX,docker.io
