@@ -21,3 +21,4 @@ payload:
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,pythonhosted.org
