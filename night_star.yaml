@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,webshare.io
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,pypi.org
