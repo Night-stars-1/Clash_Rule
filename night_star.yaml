@@ -26,3 +26,6 @@ payload:
   - DOMAIN-SUFFIX,supaycard.com
   - DOMAIN-SUFFIX,salesmartly.com
   - DOMAIN-SUFFIX,nodeseek.com
+  - PROCESS-NAME-WILDCARD,*claude*
+  - PROCESS-NAME,com.okinc.okex.gp
+  - PROCESS-NAME,*google*
