@@ -29,3 +29,4 @@ payload:
   - PROCESS-NAME-WILDCARD,*claude*
   - PROCESS-NAME,com.okinc.okex.gp
   - PROCESS-NAME,*google*
+  - PROCESS-NAME,com.twitter.android
