@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,roogoo.com
+  - DOMAIN-KEYWORD,roogoo
   - DOMAIN-SUFFIX,litellm.ai
   - DOMAIN-SUFFIX,mojang.com
   - DOMAIN-SUFFIX,amazon.co.jp
