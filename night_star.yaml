@@ -27,7 +27,9 @@ payload:
   - DOMAIN-SUFFIX,salesmartly.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,onorca.dev
-  - PROCESS-NAME-WILDCARD,*claude*
   - PROCESS-NAME,com.okinc.okex.gp
   - PROCESS-NAME,*google*
   - PROCESS-NAME,com.twitter.android
+  - DOMAIN-SUFFIX,yunyoo.cc
+  - DOMAIN-SUFFIX,jina.ai
+  - DOMAIN-SUFFIX,t.co
