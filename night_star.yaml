@@ -31,5 +31,6 @@ payload:
   - PROCESS-NAME,*google*
   - PROCESS-NAME,com.twitter.android
   - DOMAIN-SUFFIX,yunyoo.cc
+  - DOMAIN-SUFFIX,yooddns.stream
   - DOMAIN-SUFFIX,jina.ai
   - DOMAIN-SUFFIX,t.co
