@@ -35,3 +35,4 @@ payload:
   - DOMAIN-SUFFIX,jina.ai
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,lineageos.org
+  - DOMAIN-SUFFIX,motrix.app
